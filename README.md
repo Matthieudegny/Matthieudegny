@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Matthieu from France, living in Bali 🌴, Font-end developer. I really enjoy learning languages and frameworks like JS and React.
+
+![ScreenShot](/img/xps-g2E2NQ5SWSU-unsplash.jpg)
+
+
 <!--
 **Matthieudegny/Matthieudegny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
