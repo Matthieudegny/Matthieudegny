@@ -1,6 +1,8 @@
 # Wlecome to my Gihub:
 
-![front-image](/img/domenico-loia-hGV2TfOh0ns-unsplash.jpg)
+![front-image()](/img/domenico-loia-hGV2TfOh0ns-unsplash.jpg)
+
+
 
 ---- 
 
@@ -28,13 +30,15 @@
  
 </p>
 
+---- 
+
 <h2 align="center">exchange with me</h2>
-<p align="center"><a href="https://github.com/Matthieudegny" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> &nbsp;</a> <a href="https://twitter.com/MatthieuDevCode" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> &nbsp;</a> <a href="https://www.linkedin.com/in/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> &nbsp;</a>
+<p align="center"> <a href="https://twitter.com/MatthieuDevCode" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> &nbsp;</a> <a href="https://www.linkedin.com/in/matthieu-degny-49060a238/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> &nbsp;</a>
 </p>
 
 ------
 
-<img width="100%" height="600" src=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif>
+<img width="100%" height="500" src=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif>
 
 
 
