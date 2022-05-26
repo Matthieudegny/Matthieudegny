@@ -5,7 +5,7 @@
 <h3>
   <strong>I'm Matthieu , <br />
  passionate about web development,
- always looking for improvement with a perfectionist and benevolent spirit. <br />
+ always looking for improvement with a perfectionist and benevolent spirit.
  I am interested in everything that is directly or indirectly related to the web 
   <br />
   <br />
@@ -18,11 +18,6 @@
 
 <h1 align="center">Skills</h1>
 
-<style>
-td {
-   border: none!important;
-}
-</style>
 
 <table align="center">
   <tr>
@@ -71,6 +66,9 @@ td {
     <td align="center" width="96"> 
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="48" height="48" alt="Google Cloud" />
       <br>SASS
+    </td>
+    <td align="center" width="96"> 
+      <br>
     </td>
   </tr>
 </table>
