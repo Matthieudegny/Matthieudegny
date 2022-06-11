@@ -3,7 +3,6 @@
 
 
 <h3>
-  <strong>I'm Matthieu , <br />
  passionate about web development,
  always looking for improvement with a perfectionist and benevolent spirit.
  I am interested in everything that is directly or indirectly related to the web 
@@ -11,10 +10,6 @@
   <br />
  Currently working on Redux and react native;
 </h3>
-
-<br />
-
----- 
 
 <h1 align="center">Skills</h1>
 
@@ -82,7 +77,7 @@
 <p align="center"> <a href="https://twitter.com/MatthieuDevCode" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> &nbsp;</a> <a href="https://www.linkedin.com/in/matthieu-degny-49060a238/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> &nbsp;</a>
 </p>
 
-------
+
 
 
 
